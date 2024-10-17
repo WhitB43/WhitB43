@@ -1,0 +1,22 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+body {
+  background: linear-gradient(#84FFC9, #AAB2FF, #ECA0FF);
+}
+
+.display-3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cards {
+  background-color: #9BF8F4;
+}
