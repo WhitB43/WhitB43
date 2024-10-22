@@ -9,7 +9,7 @@ I am an IT Student at the University of North Alabama. I am currently a sophomor
 
 I would not consider myself an experienced developer. I only know the basics of certain HTML, JS, and CSS coding but I am fairly profiecent in Python coding and Java coding. Even though I do not know what I am doing most of the time, I still keep progressing and getting better and better the more I do it. So it may take a while, but I am hoping that one day, I'll be a good developer.
 
-For my full portfolio, go to whitb43.github.io/WhitB43/ 
+For my full portfolio, whitb43.github.io/WhitB43/
 
 ### Skills 
 <p align="left">
